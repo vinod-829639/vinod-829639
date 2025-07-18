@@ -48,6 +48,7 @@ Tools: VS Code, Git, Xampp.
 ◦ Live Demo:[ https://studio-magicsaver-ki3p4.us-central1.hosted.app/]
 
 💬 Let's Connect:
+
 I'm always open to discussing new opportunities, collaborating on interesting projects, or just chatting about tech!
 
 LinkedIn:[https://www.linkedin.com/in/vinod-hosmani-79800a27a]
