@@ -23,9 +23,10 @@ Tools: VS Code, Git, Xampp.
 ◦ Enhanced UI with Tailwind CSS and ShadCN UI, ensuring a responsive and accessible experience
   across mobile and desktop devices.
 ◦ Utilized technologies: Html,css,java script, Firebase (Authentication, Firestore),
-◦ Live Demo: https://agrotechservice.in
 
-2) MAGICSAVER [affilate marketing]
+◦ Live Demo:[ https://agrotechservice.in]
+
+3) MAGICSAVER [affilate marketing]
 ◦ Developed MagicSaver, an affiliate marketing platform that helps users discover and earn cashback
   on products from Amazon, Flipkart, Myntra, and Ajio via deep-linked product listings.
 ◦ Utilized technologies: Next.js (App Router), Firebase (Authentication, Firestore, Rules), Tailwind CSS,
@@ -44,4 +45,13 @@ Tools: VS Code, Git, Xampp.
 ◦ Optimized performance using dynamic imports and static generation, leading to faster load times
   and improved SEO.
 
-◦ Live Demo: https://studio-magicsaver-ki3p4.us-central1.hosted.app/
+◦ Live Demo:[ https://studio-magicsaver-ki3p4.us-central1.hosted.app/]
+
+💬 Let's Connect:
+I'm always open to discussing new opportunities, collaborating on interesting projects, or just chatting about tech!
+
+LinkedIn:[https://www.linkedin.com/in/vinod-hosmani-79800a27a]
+
+Email:[vkumar25724@gmail.com]
+
+Portfolio: [https://vinodsportfolio.netlify.app/]
