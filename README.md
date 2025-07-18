@@ -13,7 +13,7 @@ Cloud & DevOps: AWS, Docker, Git.
 Tools: VS Code, Git, Xampp.
 
 🎯 Featured Projects:
-1) AGROTECH [Agrotecg service]
+1) AGROTECH [Agrotecg service]:
 ◦ Built a comprehensive Agrotech web platform offering farmers services such as field visit booking,
   personalized product suggestions, and product supply with detailed usage guidance.
 ◦ Integrated Firebase Authentication and Firestore to manage user registration, service requests, and
@@ -26,7 +26,7 @@ Tools: VS Code, Git, Xampp.
 
 ◦ Live Demo:[ https://agrotechservice.in]
 
-3) MAGICSAVER [affilate marketing]
+3) MAGICSAVER [affilate marketing]:
 ◦ Developed MagicSaver, an affiliate marketing platform that helps users discover and earn cashback
   on products from Amazon, Flipkart, Myntra, and Ajio via deep-linked product listings.
 ◦ Utilized technologies: Next.js (App Router), Firebase (Authentication, Firestore, Rules), Tailwind CSS,
