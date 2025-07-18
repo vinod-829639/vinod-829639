@@ -43,4 +43,5 @@ Tools: VS Code, Git, Xampp.
   consistency across pages.
 ◦ Optimized performance using dynamic imports and static generation, leading to faster load times
   and improved SEO.
+
 ◦ Live Demo: https://studio-magicsaver-ki3p4.us-central1.hosted.app/
