@@ -1,4 +1,4 @@
-# Hi there, I'm Vinod Hosmani 👋  
+# Hi there, I'm Vinod Hosmani   
 
 **Full-stack Developer | Data Enthusiast | Open Source Contributor**
 
@@ -6,7 +6,7 @@ I'm a passionate Full-stack Developer with a focus on building robust and scalab
 
 ---
 
-## ✨ My Toolkit  
+##  My Toolkit  
 - **Languages**: Python, JavaScript, TypeScript  
 - **Frontend**: React, Vue.js, HTML5, CSS3, Tailwind CSS  
 - **Backend**: Node.js, Express.js, Django, Flask  
@@ -16,9 +16,9 @@ I'm a passionate Full-stack Developer with a focus on building robust and scalab
 
 ---
 
-## 🎯 Featured Projects  
+##  Featured Projects  
 
-### 1️⃣ AGROTECH 🌱  
+### 1️⃣ AGROTECH   
 [Live Demo](https://agrotechservice.in)  
 A comprehensive Agrotech web platform offering farmers services like field visit booking, personalized product suggestions, and guided product supply.  
 
@@ -31,7 +31,7 @@ A comprehensive Agrotech web platform offering farmers services like field visit
 
 ---
 
-### 2️⃣ MAGICSAVER 💰  
+### 2️⃣ MAGICSAVER  
 [Live Demo](https://studio-magicsaver-ki3p4.us-central1.hosted.app/)  
 An affiliate marketing platform helping users discover and earn cashback on products from Amazon, Flipkart, Myntra, and Ajio.  
 
@@ -47,7 +47,7 @@ An affiliate marketing platform helping users discover and earn cashback on prod
 
 ---
 
-## 📬 Let's Connect  
+## Let's Connect  
 
 - **LinkedIn**: [linkedin.com/in/vinod-hosmani-79800a27a](https://www.linkedin.com/in/vinod-hosmani-79800a27a)  
 - **Email**: [vkumar25724@gmail.com](mailto:vkumar25724@gmail.com)  
@@ -55,4 +55,4 @@ An affiliate marketing platform helping users discover and earn cashback on prod
 
 ---
 
-⭐️ _Always open to discussing new opportunities, collaborating on interesting projects, or just chatting about tech!_ 🚀  
+ _Always open to discussing new opportunities, collaborating on interesting projects, or just chatting about tech!_ 
