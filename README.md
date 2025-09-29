@@ -7,12 +7,12 @@ I'm a passionate Full-stack Developer with a focus on building robust and scalab
 ---
 
 ##  My Toolkit  
-- **Languages**: Python, JavaScript, TypeScript  
-- **Frontend**: React, Vue.js, HTML5, CSS3, Tailwind CSS  
-- **Backend**: Node.js, Express.js, Django, Flask  
-- **Databases**: PostgreSQL, MongoDB, MySQL  
-- **Cloud & DevOps**: AWS, Docker, Git  
-- **Tools**: VS Code, Git, XAMPP  
+-**Web Development**: HTML, CSS, JavaScript,React,PHP,Tailwind CSS,
+-**Programming Languages**: Python, C, c++
+-**Databases**: DBMS,MySQL,MongoDB
+-**Cloud Computing**: Amazon Web Services (AWS) – EC2, S3,Firebase,Google cloude
+-**Tools**: GitHub, MySQL Workbench, VS Code, Jupyter Notebook, Google Analytics
+-**Other Skills**: Search Engine Optimization (SEO), Problem-Solving, Troubleshooting  
 
 ---
 
