@@ -5,6 +5,7 @@
 I'm a passionate Full-stack Developer with a focus on building robust and scalable web applications. My journey in tech is driven by a curiosity to understand how things work and a desire to create solutions that make a difference. I thrive on turning complex problems into elegant, user-friendly experiences.  
 
 ---
+
 ## Work Experience
 
 ### Full-Stack Developer Intern – Walnut Furniture  
@@ -25,6 +26,8 @@ I'm a passionate Full-stack Developer with a focus on building robust and scalab
 - Built dynamic dashboards and job management tools, allowing employers to post jobs, view applications, and students to apply, save listings, and receive status updates.  
 - Optimized data flow and performance using React with Firebase integration, improving page responsiveness and reducing load time by **30%**.  
 - Enhanced UI/UX with Tailwind CSS and ShadCN UI, ensuring mobile responsiveness, accessibility, and a clean, modern look across all devices.
+
+---
   
 ##  My Toolkit  
 - **Web Development**: HTML, CSS, JavaScript,React,PHP,Tailwind CSS,
