@@ -55,7 +55,7 @@ A comprehensive Agrotech web platform offering farmers services like field visit
 ---
 
 ### 2️⃣ MAGICSAVER  
-[Live Demo](https://studio-magicsaver-ki3p4.us-central1.hosted.app/)  
+[Live Demo](magicsaver.shop)  
 An affiliate marketing platform helping users discover and earn cashback on products from Amazon, Flipkart, Myntra, and Ajio.  
 
 **Highlights:**  
